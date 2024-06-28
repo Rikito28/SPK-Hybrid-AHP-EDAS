@@ -1,7 +1,7 @@
 </div> <!-- /wrapper -->
 
 <footer>
-	<p>Copyright &copy; <?php echo date("Y"); ?></p>
+	<p>Copyright Riski Apriyanto &copy; <?php echo date("Y"); ?></p>
 </footer>
 
 <script src="js/jquery-3.2.1.js"></script>
