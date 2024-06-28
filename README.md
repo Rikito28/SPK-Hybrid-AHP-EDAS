@@ -1,4 +1,4 @@
-# analytic-hierarchy-process
+# analytic-hierarchy-process and EDAS
 Simple decision support system application with AHP method.
 
 ## Installation
